@@ -9,8 +9,8 @@
 	{
 		"assign": "SP_EGG",
 		"jp_text": "？スペシャルエッグ",
-		"en_text": "",
+		"en_text": "SPECIAL EGG?",
 		"jp_explain": "未鑑定状態のエッグ。\n鑑定ショップで鑑定すれば\n詳細を知ることができる。",
-		"en_explain": ""
+		"en_explain": "Unidentified Egg\nGet an expert appraisal for details."
 	}
 ]
