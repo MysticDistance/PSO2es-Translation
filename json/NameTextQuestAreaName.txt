@@ -147,17 +147,17 @@
 	{
 		"assign": "10610",
 		"jp_text": "解任、そして凍土再び",
-		"en_text": ""
+		"en_text": "To the Frozen Tundra Once More"
 	},
 	{
 		"assign": "10620",
 		"jp_text": "ナベリウスの謎の遺跡",
-		"en_text": ""
+		"en_text": "The Mysterious Relic of Naberius"
 	},
 	{
 		"assign": "10630",
 		"jp_text": "浮遊大陸の龍討伐",
-		"en_text": ""
+		"en_text": "Slay the Skyscape's Dragon!"
 	},
 	{
 		"assign": "10640",
